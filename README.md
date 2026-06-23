@@ -11,9 +11,7 @@ A collaborative guide by [Ronald Kirui,Loice Wairimu,Joshua Murgor,James].
 - canva
 
 ## Introduction
-
-This guide covers tools that every student should know about.
-
+In today's digital age, technology plays a significant role in enhancing the learning experience. Students can access a wide variety of tools that help them organize their studies, manage their time, conduct research, collaborate with peers, and improve their academic performance. From note-taking applications and productivity software to online learning platforms and cloud storage services, these tools make studying more efficient and effective. By utilizing the right digital resources, students can develop better study habits, increase productivity, and achieve their educational goals more successfully. Understanding and using these tools is essential for thriving in modern academic environments.
 
 ## VS Code
 
