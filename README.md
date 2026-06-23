@@ -5,10 +5,10 @@
 A collaborative guide by [Ronald Kirui,Loice Wairimu,Joshua Murgor,].
 
 ## Table of Contents
-- (#introduction)
-- (#vs-code)
-- (#notion)
-- (#canva)
+- introduction
+- vs-code
+- notion
+- canva
 
 ## Introduction
 
