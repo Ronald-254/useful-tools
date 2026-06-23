@@ -2,7 +2,7 @@
 
 # Useful Tools for Students
 
-A collaborative guide by [Ronald Kirui,Loice Wairimu,Joshua Murgor,].
+A collaborative guide by [Ronald Kirui,Loice Wairimu,Joshua Murgor,James].
 
 ## Table of Contents
 - introduction
