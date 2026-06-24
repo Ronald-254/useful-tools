@@ -23,6 +23,30 @@ In today's digital age, technology plays a significant role in enhancing the lea
 
 ## Canva
 
-<A design tool ,a powerful,built-in conversation AI assistant
+## Canva
+
+**Canva** is a graphic design tool used to create presentations, posters, social media graphics, and other visual content easily.
+
+### Why Students Should Use Canva
+- It is simple and beginner-friendly.
+- It provides ready-made templates.
+- It helps students create professional-looking designs quickly.
+- It supports group collaboration.
+
+### Features
+- Drag-and-drop design interface
+- Free templates for assignments and presentations
+- Built-in AI design tools
+- Cloud storage for projects
+
+### How to Use Canva
+1. Go to https://www.canva.com
+2. Sign up or log in
+3. Choose a template
+4. Edit and customize your design
+5. Download or share your work
+
+### Useful Link
+- https://www.canva.com
 
 "Improving docs"
